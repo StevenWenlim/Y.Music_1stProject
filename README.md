@@ -1,8 +1,8 @@
 # Y.Music_Project
 
-This project is my project in sprint 1, which is Basic Python.
+This is my project in sprint 1, which is Basic Python.
 
-In this project, I learned the key concepts and basic syntax of Python, as well as the Pandas library for data analysis.
+In this sprint, I learned the key concepts and basic syntax of Python, as well as the Pandas library for data analysis.
 
 # Project Overview
 
