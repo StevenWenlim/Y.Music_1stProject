@@ -1,4 +1,11 @@
 # Y.Music_Project
+
+This project is my project in sprint 1, which is Basic Python.
+
+In this project, I learned the key concepts and basic syntax of Python, as well as the Pandas library for data analysis.
+
+# Project Overview
+
 In this project I will act as a Analyst at Y.Music Company, the main goal of this project is to test the hypotheses and compare users’ preferences. The following is the conclusion that I have drawn after working on the project.
 
 After analyzing the data, we can conclude:
